@@ -38,14 +38,11 @@
 ---
 
   </td>
-
-    <!-- RIGHT COLUMN -->
   <td style="width:38%; text-align:center; border:0; padding-left:6px;">
       <!-- Hacker GIF (compact) -->
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.45);" alt="hacker-gif"/>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2U0ZnViMjRucnJ6OW15c3l6bTdiOW9uN2V3NG83eXpiMGhwczRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TyNiKSSbpMcoveJ75f/giphy.gif" width="320" style="border-radius:8px; box-shadow: 0 6px 18px rgba(0,0,0,0.45);" alt="hacker-gif"/>
       <br/>
 
-      <!-- Optional compact badges / small bio card -->
   <div style="margin-top:10px; text-align:left; font-size:13px;">
         <strong>Role</strong><br/>WebApp Sec · Backend · IoT  
         <hr style="opacity:.12"/>
