@@ -40,15 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshyajuneja&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyajuneja&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-### 🕶️ Hacker Vibes
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Matrix hacker gif"/>
   <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="400" alt="Coding hacker gif"/>
