@@ -1,7 +1,7 @@
 <!-- Hacker Style Profile README -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="Hacker gif"/>
+  <img src="[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2U0ZnViMjRucnJ6OW15c3l6bTdiOW9uN2V3NG83eXpiMGhwczRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TyNiKSSbpMcoveJ75f/giphy.gif)" width="600" alt="Hacker gif"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Lakshya</h1>
