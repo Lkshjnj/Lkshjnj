@@ -13,7 +13,6 @@
 - 🌐 Network enthusiast — built my own **ESP32 Marauder** for wireless testing.  
 - 🔎 Currently learning **IoT Hacking & Malware Analysis**.  
 - 📫 Reach me: **lakshyjuneja22@gmail.com**  
-- ⚡ Fun fact: *I think I'm funny 😄*
 
 **What I work on**
 - Web application security assessments, bug bounty reports, and secure backend design.  
